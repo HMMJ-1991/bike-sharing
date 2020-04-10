@@ -1,12 +1,12 @@
-#Submission Notebook links
-Part 1 - data preparation, descriptive and exploratory analysis: https://bit.ly/3a5aWoh
-Part 2 - predictive analysis - with and without holidays: https://bit.ly/2JRPmc7
-part 3 - predictive analysis - member type: https://bit.ly/2Xx4pjz
+###Submission Notebook links
+#Part 1 - data preparation, descriptive and exploratory analysis: https://bit.ly/3a5aWoh
+#Part 2 - predictive analysis - with and without holidays: https://bit.ly/2JRPmc7
+#part 3 - predictive analysis - member type: https://bit.ly/2Xx4pjz
 
-# bike-sharing
+## bike-sharing
 Analyse bike sharing dataset and forecast the demand
 
-# data-set
+## data-set
 
 Capital Bikeshare (abbreviated CaBi) is a bike-sharing system operates in Washington D.C and some other cities in the United States of America. They have published their data [2] under this [3] license inviting any interested parties to perform analysis, development and visualization. The data set consists of below fields as per their description.
 
