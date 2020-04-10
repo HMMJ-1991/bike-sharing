@@ -1,10 +1,10 @@
-##Submission Notebook links
+### Submission Notebook links
 
-#Part 1 - data preparation, descriptive and exploratory analysis: https://bit.ly/3a5aWoh
+# Part 1 - data preparation, descriptive and exploratory analysis: https://bit.ly/3a5aWoh
 
-#Part 2 - predictive analysis - with and without holidays: https://bit.ly/2JRPmc7
-
-#part 3 - predictive analysis - member type: https://bit.ly/2Xx4pjz
+# Part 2 - predictive analysis - with and without holidays: https://bit.ly/2JRPmc7
+ 
+# part 3 - predictive analysis - member type: https://bit.ly/2Xx4pjz
 
 ## bike-sharing
 Analyse bike sharing dataset and forecast the demand
